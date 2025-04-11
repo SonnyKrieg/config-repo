@@ -1,0 +1,2 @@
+polar:
+  greeting: "Buena mi perro, a produccion mi socio"
